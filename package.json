@@ -1,0 +1,28 @@
+{
+  "name": "Multi-Checkout-Experience",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "express": "^4.16.4",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "babel client --out-dir public --presets=react --source-maps inline --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jboles31/Multi-Checkout-Experience.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jboles31/Multi-Checkout-Experience/issues"
+  },
+  "homepage": "https://github.com/jboles31/Multi-Checkout-Experience#readme"
+}
